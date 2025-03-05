@@ -23,3 +23,7 @@ Copying files to calculator ARVICHIVE and not RAM is strongly recommended to kee
 
 TI Connect CE download link:
 https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware
+
+More TI-84 Plus CE games link:
+https://calcplex.com/downloads/ti84plusce/games/
+https://www.ti84calcwiz.com/ti84plusce-games/
