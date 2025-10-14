@@ -21,6 +21,9 @@ Instructions:
 Copy all files to TI-84 Plus CE with "TI Connect CE". Copy all contents of "TI-boy CE" folder, but do not copy the actual folder. 
 Copying files to calculator ARVICHIVE and not RAM is strongly recommended to keep files from getting erased if battery dies/is removed or the RAM is cleared. 
 
+Starting the games:
+Press apps, then select CabriJr. Select "Open..." (if menu doesn't show up, press y= or F1 to open it). Then select ARTIFICE. The calculator should show a list of all of the installed games and the gameboy emulator (TIBOYCE). Choose the game by selecting it and press enter. Now you can play games on your graphing calculator!
+
 TI Connect CE download link:
 https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware
 
